@@ -11,7 +11,7 @@ spec:
   backup: false
   clusters: 
     - bry
-  enable: false 
+  enable: true 
   managedPolicies: 
     - cluster-version-upgrade
   preCaching: false
