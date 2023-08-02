@@ -3,7 +3,7 @@ kind: ClusterGroupUpgrade
 metadata:
   name: ocp-upgrade-41059
   namespace: bry-tam-policies-prod
-Spec:
+spec:
   actions:
     afterCompletion:
       deleteObjects: true
