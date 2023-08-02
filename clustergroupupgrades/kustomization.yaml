@@ -4,3 +4,4 @@ kind: Kustomization
 ## include existing placements. 
 resources:
   - ./ocp-upgrade-41059.yml
+  - ./ocp-upgrade-41060.yml
