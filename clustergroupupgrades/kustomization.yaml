@@ -5,3 +5,4 @@ kind: Kustomization
 resources:
   - ./ocp-upgrade-41059.yml
   - ./ocp-upgrade-41060.yml
+  - ./ocp-upgrade-41145.yml
